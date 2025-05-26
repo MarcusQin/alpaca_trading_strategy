@@ -1,0 +1,16 @@
+alpaca-trade-api
+alpaca-py
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+yfinance
+pytz
+vaderSentiment
+aiohttp
+tqdm
+schedule
+requests
+python-dotenv
